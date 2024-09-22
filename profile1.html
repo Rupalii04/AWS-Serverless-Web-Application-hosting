@@ -1,0 +1,51 @@
+<html>
+<head>
+    <title>Profile</title>
+    </title>
+</head>
+<body>
+    <div align="center">
+        <h1>Save and View an Student Profile</h1>
+        Student ID:
+        <br>
+        <input type="text" name="studentid" id="empid">
+        <br> First name:
+        <br>
+        <input type="text" name="firstname" id="fname">
+        <br> Last name:
+        <br>
+        <input type="text" name="lastname" id="lname">
+        <br> Student Age:
+        <br>
+        <input type="text" name="empage" id="empage">
+        <br>
+        <br>
+        <input type="submit" id="saveprofile" value="Save Profile">
+        <br>
+        <p id="profileSaved"></p>
+        <br>
+        <input type="submit" id="getprofile" value="View all the Student Profiles">
+        <br>
+        <div id="showProfile">
+            <table id="studentProfile">
+                <colgroup>
+                    <col style="width:20%">
+                    <col style="width:20%">
+                    <col style="width:20%">
+                    <col style="width:20%">
+                </colgroup>
+                <tbody>
+                    <tr>
+                        <th>Student ID</th>
+                        <th>First name</th>
+                        <th>Last Name</th>
+                        <th>Student Age</th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <script src="scripts.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"></script>
+</body>
+</html>
