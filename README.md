@@ -12,7 +12,7 @@
 ![Screenshot (113)](https://github.com/user-attachments/assets/d05c541f-4efd-4bca-834a-d01d303d1f81)
 ![Screenshot (114)](https://github.com/user-attachments/assets/b60a3b4a-0af9-4a2e-9ce3-4bbc4988ad5c)
 ![Screenshot (115)](https://github.com/user-attachments/assets/8b599bdb-4e16-40a1-896d-50d1c3626e32)
-# INTEGRATION OF FRONTEND AND BACKEND THROUGH API GATEWAY
+# INTEGRATION OF FRONTEND AND BACKEND THROUGH API GATEWAY :
 ![Screenshot (116)](https://github.com/user-attachments/assets/34239753-22da-4293-836b-6bcbf73fbd0e)
 ![Screenshot (119)](https://github.com/user-attachments/assets/db4cd533-60dd-4b80-aca0-49ef203a180c)
 ![Screenshot (118)](https://github.com/user-attachments/assets/2929c123-8911-4fe4-b28c-093448b49baa)
